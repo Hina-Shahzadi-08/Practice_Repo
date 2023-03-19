@@ -1,1 +1,6 @@
-# Practice_Repo
+# Topics to Cover
+Git Pull / Push
+
+VS Code
+
+Branching
