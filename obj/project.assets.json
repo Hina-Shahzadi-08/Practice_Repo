@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hina\\Hina_2566\\Practice_Repo\\Practice_Repo.csproj",
+      "projectUniqueName": "C:\\Users\\Hina\\Source\\Repos\\Practice_Repo\\Practice_Repo.csproj",
       "projectName": "Practice_Repo",
-      "projectPath": "C:\\Users\\Hina\\Hina_2566\\Practice_Repo\\Practice_Repo.csproj",
+      "projectPath": "C:\\Users\\Hina\\Source\\Repos\\Practice_Repo\\Practice_Repo.csproj",
       "packagesPath": "C:\\Users\\Hina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hina\\Hina_2566\\Practice_Repo\\obj\\",
+      "outputPath": "C:\\Users\\Hina\\Source\\Repos\\Practice_Repo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
